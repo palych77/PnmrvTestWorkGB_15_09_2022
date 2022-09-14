@@ -1,0 +1,15 @@
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\bin\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.exe
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\bin\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.deps.json
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\bin\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.runtimeconfig.json
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\bin\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.dll
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\bin\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.pdb
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.csproj.AssemblyReference.cache
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.AssemblyInfoInputs.cache
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.AssemblyInfo.cs
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.csproj.CoreCompileInputs.cache
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.dll
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\refint\PnmrvTestWorkGB_15_09_2022.dll
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.pdb
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\PnmrvTestWorkGB_15_09_2022.genruntimeconfig.cache
+C:\GeekBrains\PnmrvControlWork\PnmrvTestWorkGB_15_09_2022\obj\Debug\net6.0\ref\PnmrvTestWorkGB_15_09_2022.dll

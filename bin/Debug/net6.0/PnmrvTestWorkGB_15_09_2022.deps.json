@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PnmrvTestWorkGB_15_09_2022/1.0.0": {
+        "runtime": {
+          "PnmrvTestWorkGB_15_09_2022.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PnmrvTestWorkGB_15_09_2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
